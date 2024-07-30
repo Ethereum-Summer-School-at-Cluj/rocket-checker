@@ -85,7 +85,7 @@ providerManager: 0x7cFfC6Ab80C4953DD3cCceeDED0D400D86f95a01 https://amoy.polygon
 
 **Georgiana Balea** aka Georgi the Rocket SpaceMarket Engineer [gitHub](https://github.com/GeorgianaBalea)|[Twitter](https://x.com/BaleaGeo)
 
-**Cristea Octavian** aka Tavi the Rocket Validation Engineer [gitHub](https://github.com/octavi42)
+**Cristea Octavian** aka Tavi the Rocket Validation Engineer [gitHub](https://github.com/octavi42)|[Twitter](https://x.com/octavicristea)
 
 **Tudor Pintea** aka Tudor the Rocket Data Engineer [gitHub](https://github.com/tudorpintea999)|[Twitter](https://x.com/iwantanode)
 
