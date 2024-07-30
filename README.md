@@ -81,6 +81,18 @@ providerManager: 0x7cFfC6Ab80C4953DD3cCceeDED0D400D86f95a01 https://amoy.polygon
 - `test/`: Contains test cases for the smart contracts.
 - `src/`: Contains the smart contracts written in Solidity.
 
+## Rocket Crew :rocket:
+
+**Georgiana Balea** aka Georgi the Rocket SpaceMarket Engineer [gitHub](https://github.com/GeorgianaBalea)|[Twitter](https://x.com/BaleaGeo)
+
+**Cristea Octavian** aka Tavi the Rocket Validation Engineer [gitHub](https://github.com/octavi42)
+
+**Tudor Pintea** aka Tudor the Rocket Data Engineer [gitHub](https://github.com/tudorpintea999)
+
+**George Pop** aka George the Rocket Marketing Researcher [gitHub](https://github.com/Geo01230)
+ 
+**Sipos Eduard** aka Edi the Rocket CI Engineer [gitHub](https://github.com/siposeduard)|[Twitter](https://x.com/SiposEduard1)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
