@@ -87,7 +87,7 @@ providerManager: 0x7cFfC6Ab80C4953DD3cCceeDED0D400D86f95a01 https://amoy.polygon
 
 **Cristea Octavian** aka Tavi the Rocket Validation Engineer [gitHub](https://github.com/octavi42)
 
-**Tudor Pintea** aka Tudor the Rocket Data Engineer [gitHub](https://github.com/tudorpintea999)
+**Tudor Pintea** aka Tudor the Rocket Data Engineer [gitHub](https://github.com/tudorpintea999)|[Twitter](https://x.com/iwantanode)
 
 **George Pop** aka George the Rocket Marketing Researcher [gitHub](https://github.com/Geo01230)
  
