@@ -17,7 +17,13 @@ Welcome to our complex supply chain project using NFTs for product authenticatio
 Rocket Token: 0x25f21b90Ed59436887aC0912fa8BDC74522852DE https://amoy.polygonscan.com/address/0x25f21b90Ed59436887aC0912fa8BDC74522852DE
 
 Marketplace: 0x8866D7ae8d3EBD4BeC425d4C6bdd12046552eC22 https://amoy.polygonscan.com/address/0x8866D7ae8d3EBD4BeC425d4C6bdd12046552eC22
- Producer: 0x26fBF69006140C993D8C2081403f00A8Bf4B42e7 https://amoy.polygonscan.com/address/0x26fBF69006140C993D8C2081403f00A8Bf4B42e7
+
+Producer: 0x26fBF69006140C993D8C2081403f00A8Bf4B42e7 https://amoy.polygonscan.com/address/0x26fBF69006140C993D8C2081403f00A8Bf4B42e7
+
+itemManager: 0x68891bc14675156A64F2e26E806511053A80eA3b https://amoy.polygonscan.com/address/0x68891bc14675156A64F2e26E806511053A80eA3b
+
+providerManager: 0x7cFfC6Ab80C4953DD3cCceeDED0D400D86f95a01 https://amoy.polygonscan.com/address/0x7cFfC6Ab80C4953DD3cCceeDED0D400D86f95a01
+
  
 ## Getting Started
 
